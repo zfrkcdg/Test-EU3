@@ -1,2 +1,10 @@
 THIS IS MY FILE 2 
 About to be statged and committed
+
+SOME CHANGE I HAVE MADE
+
+THIS IS NOT MY REPO
+
+BUT I DO NOT HAVE ACCESS
+
+SOLUTION?
